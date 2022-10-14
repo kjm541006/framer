@@ -112,7 +112,7 @@ function App() {
             <Box
               layoutId={id}
               style={{ width: "25vw", height: "250px" }}
-              transition={{ duration: 3 }}
+              // transition={{ duration: 3 }}
             />
           </Overlay>
         ) : null}
